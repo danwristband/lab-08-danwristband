@@ -1,0 +1,11 @@
+{
+    "courses": [
+        {
+            "courseId": 261207,
+            "courseName": "Basic CPE LAB",
+            "credit": 2,
+            "gpa": 3.5
+        }
+    ],
+    "gpax": 3.5
+}
